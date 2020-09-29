@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "313403059190",
+    "firebase_url": "https://scanner-fda84.firebaseio.com",
+    "project_id": "scanner-fda84",
+    "storage_bucket": "scanner-fda84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313403059190:android:07f06b059f4fc5ed3a75d7",
+        "android_client_info": {
+          "package_name": "com.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313403059190-dduuu3blrqt7qjmn5c8jh8ru2aaes79e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDiZpI0Kn4T4Tc1CWdg5nDZqH97ceMeeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313403059190-dduuu3blrqt7qjmn5c8jh8ru2aaes79e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
